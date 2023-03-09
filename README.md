@@ -1,16 +1,18 @@
-### Hi there 👋
+## :blossom: Oii, sou a Gabi! ##
 
-<!--
-**gabrielescosta/gabrielescosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aproveitando todas as oportunidades de aprendizado, nestes últimos meses realizei os seguintes cursos: 
+<p>
+	<p> <br>
+		
+<li> Fundamento de TI: Hardware e Software - Fundação Bradesco
+	<li> HTML básico e avançado - Fundação Bradesco
+		<li> Implantação de redes locais - Senai </li>
+	<p> <br>	
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Além disso, atualmente estou cursando:
+	<p> <br>	
+		<li> 1°sem. de Análise e desenvolvimento de sistemas - Uninove
+<li>Manutenção de micro e implantação de redes - Senai
+	<li> Algoritmo e lógica de programação - Udemy
+		<li> Programação FrontEnd -  Instituto Ford Academy com parceria do Senai
+		
