@@ -13,5 +13,9 @@
 <li> Fundamento de TI - Fundação Bradesco
 </div>
 <br>
- <div>
+ <br>
+ 
  <a href= "https://instagram.com/gabi.sc7"> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<br>
+  <br>
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
