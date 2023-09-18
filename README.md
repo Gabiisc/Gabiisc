@@ -4,8 +4,7 @@
  <br> Nestes últimos meses tenho colocado o estudo em dia. Fiz e estou fazendo os seguintes cursos:
 
 <div>
-<li> 1°sem. de Análise e desenvolvimento de sistemas - Uninove
-<li> Programação FrontEnd -  Instituto <a href= "https://www.fordenter.ford.com/?gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc6HPDH4-gxmJ5zlljaTViv-PeyW55Y2uva7r5N-Mf5bazDIJGQ7O98aAvEjEALw_wcB&gclsrc=aw.ds"> Ford Academy
+<li> 2°sem. de Análise e desenvolvimento de sistemas - Uninove
 <li> Algoritmo e lógica de programação - Udemy
 <li> Manutenção de micro e implantação de redes - Senac
 <li> Implantação de redes locais - Senai
