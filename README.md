@@ -1,14 +1,13 @@
 ## Oii, sou a Gabi! ##
-<p> Trabalhei 6 anos como <a href="https://instagram.com/gabi_piercer"> perfuradora corporal </a> e resolvei mudar de carreira, no momento, atuando  como assistente de projetos relacionados à TI 
+<p> Trabalhei 6 anos como <a href="https://instagram.com/gabi_piercer"> perfuradora corporal </a> e resolvei migrar de carreira, no momento, me dedicando exclusivamente aos estudos 
 <p>
- <br> Nestes últimos meses tenho colocado o estudo em dia. Fiz e estou fazendo os seguintes cursos:
 
 <div>
-<li> 2°sem. de Análise e desenvolvimento de sistemas - Uninove
-<li> Algoritmo e lógica de programação - Udemy
-<li> Manutenção de micro e implantação de redes - Senac
-<li> Implantação de redes locais - Senai
-<li> Fundamento de TI - Fundação Bradesco
+<li> 2ºsem. de Análise e desenvolvimento de sistemas - Uninove </li>
+<li> 1ºsem. Programa de desenvolvimento FullStack - <a href="https://descodificadas.com.br/"> Descodificadas </a> </li>
+<li> Desenvolvimento de páginas para internet - Senai </li>
+<li> Manutenção de micro e implantação de redes - Senac </li>
+<li> Implantação de redes locais - Senai </li>
 </div>
 <br>
  <br>
