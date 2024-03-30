@@ -3,8 +3,9 @@
 <p>
 
 <div>
-<li> 2ºsem. de Análise e desenvolvimento de sistemas - Uninove </li>
-<li> 1ºsem. Programa de desenvolvimento FullStack - <a href="https://descodificadas.com.br/"> Descodificadas </a> </li>
+<li> 3ºsem. de Análise e desenvolvimento de sistemas - Uninove </li>
+<li> 1ºsem. Análise e desenvolvimento de sistemas - ETEC
+<li> 2ºsem. Programa de desenvolvimento FullStack - <a href="https://descodificadas.com.br/"> Descodificadas </a> </li>
 <li> Desenvolvimento de páginas para internet - Senai </li>
 <li> Manutenção de micro e implantação de redes - Senac </li>
 <li> Implantação de redes locais - Senai </li>
