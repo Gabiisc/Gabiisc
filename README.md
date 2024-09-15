@@ -1,14 +1,14 @@
 ## Oii, sou a Gabi! ##
-<p> Trabalhei 6 anos como <a href="https://instagram.com/gabi_piercer"> perfuradora corporal </a> e resolvei migrar de carreira, no momento, me dedicando exclusivamente aos estudos 
-<p>
+
+<p> Após 6 anos me dedicando ao ramo da modificação corporal, agora é a tecnologia que mora no meu coração</p>
+<p> Em meu dia a dia, tenho trabalhado com Ansible na construção de automações e colocado a mão na massa para utilização de API's</p>
+<p> Atualmente, sou estagiária na B3 e sigo meus estudos rumo a vaga de Jr</p>
 
 <div>
-<li> 3ºsem. de Análise e desenvolvimento de sistemas - Uninove </li>
+<li> 4ºsem. de Análise e desenvolvimento de sistemas - Uninove </li>
 <li> 1ºsem. Análise e desenvolvimento de sistemas - ETEC
 <li> 2ºsem. Programa de desenvolvimento FullStack - <a href="https://descodificadas.com.br/"> Descodificadas </a> </li>
 <li> Desenvolvimento de páginas para internet - Senai </li>
-<li> Manutenção de micro e implantação de redes - Senac </li>
-<li> Implantação de redes locais - Senai </li>
 </div>
 <br>
  <br>
